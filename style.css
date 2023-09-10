@@ -1,0 +1,55 @@
+table {
+    width: 12.6cm;
+    height: 8.1cm;
+    border: 1px solid black;
+    border-collapse: collapse;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .tr_center {
+    text-align: center;
+  }
+
+  .left_margin {
+    padding-left: 20px;
+  }
+  
+  .right_margin {
+    padding-left: 100px;
+  }
+  .right_margin_for_AS {
+    padding-left: 170px;
+  }
+
+  #AC_overline {
+    text-decoration: overline;
+  }
+
+  .bold_content {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .underline_for_blank {
+    text-decoration: underline;
+  }
+  img{
+    width: 150px;
+    height: 40px;
+  }
+
+  .tr_line_height {
+    line-height: 30px;
+  }
+
+  .left_padding_for_img {
+    padding-left: 150px;
+  }
+
+  .signature_id_for_pos {
+    margin-bottom: -20px;
+  }
+
+  
